@@ -21,3 +21,9 @@ We are focusing on implementing a U-Net model for segmenting lung outlines in ch
 
 ## Model's Peformance Metrics:
 
+Accuracy: 0.9806
+Precision: 0.9708
+Recall: 0.9538
+F1-Score: 0.9623
+IoU: 0.9273
+Dice Coefficient: 0.9623
